@@ -21,6 +21,6 @@ The dashboard integrates **six coordinated visualization idioms**:
 These visualizations update dynamically through **global filters** (year range, region, fuel type, model).
 
 ---
-
-## 🗂️ Project Structure
+run the file 
+python app.py
 
