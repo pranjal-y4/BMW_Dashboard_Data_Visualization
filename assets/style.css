@@ -1,0 +1,39 @@
+/* Top performer card hover + active (click) */
+.top-model-card:hover {
+  background-color: #1f2937 !important;
+  transform: translateY(-2px);
+  box-shadow: 0 10px 24px rgba(0, 0, 0, 0.7);
+}
+
+.top-model-card:active {
+  background-color: #374151 !important;
+  transform: translateY(0px);
+}
+
+/* Dark dropdown menus */
+.Select-control {
+  background-color: #000000 !important;
+  color: #f5f7fa !important;
+  border-color: #555555 !important;
+}
+
+.Select-menu-outer {
+  background-color: #020617 !important;
+  color: #f5f7fa !important;
+}
+
+.Select-option {
+  background-color: #020617 !important;
+  color: #f5f7fa !important;
+}
+
+.Select-option.is-focused,
+.Select-option.is-selected {
+  background-color: #111827 !important;
+  color: #ffffff !important;
+}
+
+.Select-placeholder,
+.Select-value-label {
+  color: #f5f7fa !important;
+}
